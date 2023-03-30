@@ -9,3 +9,14 @@ C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFo
 C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CringeForm.resources
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CringeForm.resources
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
