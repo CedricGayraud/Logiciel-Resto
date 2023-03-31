@@ -147,9 +147,9 @@
             // 
             // elementHost1
             // 
-            this.elementHost1.Location = new System.Drawing.Point(349, 72);
+            this.elementHost1.Location = new System.Drawing.Point(285, 46);
             this.elementHost1.Name = "elementHost1";
-            this.elementHost1.Size = new System.Drawing.Size(342, 266);
+            this.elementHost1.Size = new System.Drawing.Size(421, 374);
             this.elementHost1.TabIndex = 8;
             this.elementHost1.Text = "elementHost1";
             this.elementHost1.Child = this.pieChart1;
