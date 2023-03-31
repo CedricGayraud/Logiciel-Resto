@@ -11,6 +11,9 @@ using MaterialSkin;
 using MaterialSkin.Animations;
 using MaterialSkin.Controls;
 using MaterialSkin.Properties;
+using LiveCharts;
+using LiveCharts.WinForms;
+using LiveCharts.Wpf;
 
 namespace WindowsFormsApp1
 {
@@ -22,7 +25,7 @@ namespace WindowsFormsApp1
             var materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
-            materialSkinManager.ColorScheme = new ColorScheme(Primary.BlueGrey800, Primary.BlueGrey900, Primary.BlueGrey500, Accent.LightBlue200, TextShade.WHITE);
+            materialSkinManager.ColorScheme = new ColorScheme(Primary.BlueGrey800, Primary.BlueGrey900, Primary.BlueGrey500, Accent.Purple700, TextShade.WHITE);
         
     }
 
@@ -31,24 +34,10 @@ namespace WindowsFormsApp1
             
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("HUH???");
-        }
 
-        private void editionToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void materialButton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HUH???");
         }
 
         private void materialListView1_SelectedIndexChanged(object sender, EventArgs e)
@@ -56,12 +45,17 @@ namespace WindowsFormsApp1
 
         }
 
-        private void materialDrawer1_Click(object sender, EventArgs e)
+        private void materialFloatingActionButton1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void tabPage2_Click(object sender, EventArgs e)
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void materialLabel1_Click(object sender, EventArgs e)
         {
 
         }
