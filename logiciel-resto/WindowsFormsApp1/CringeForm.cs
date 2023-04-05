@@ -14,11 +14,14 @@ using MaterialSkin.Properties;
 using LiveCharts;
 using LiveCharts.WinForms;
 using LiveCharts.Wpf;
+using MySql.Data.MySqlClient;
+
 
 namespace WindowsFormsApp1
 {
     public partial class CringeForm : MaterialForm
     {
+        MySqlConnection connection = new MySqlConnection("database=restaurant_manager; server=localhost; user id=root; password=");
         public CringeForm()
         {
             InitializeComponent();
@@ -72,6 +75,31 @@ namespace WindowsFormsApp1
             
         }
 
+        private void TestBtn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string deleteQuery = "DELETE FROM plats WHERE idPlat = " + textBoxID.Text;
+                connection.Open();
+                MySqlCommand command = new MySqlCommand(deleteQuery, connection);
+
+                if (command.ExecuteNonQuery() == 1)
+                {
+                    MessageBox.Show("USER DELETED");
+                }
+                else
+                {
+                    MessageBox.Show("USER NOT DELETED");
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            connection.Close();
+
+        }
 
 
         private void materialButton1_Click(object sender, EventArgs e)

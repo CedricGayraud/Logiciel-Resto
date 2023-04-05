@@ -30,6 +30,8 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CringeForm));
+            this.TestBtn = new System.Windows.Forms.Button();
+            this.textBoxID = new System.Windows.Forms.TextBox();
             this.materialScrollBar1 = new MaterialSkin.Controls.MaterialScrollBar();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.materialButton1 = new MaterialSkin.Controls.MaterialButton();
@@ -71,7 +73,27 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.materialCard6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            this.tabPage4.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // TestBtn
+            // 
+            this.TestBtn.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.TestBtn.Location = new System.Drawing.Point(661, 422);
+            this.TestBtn.Name = "TestBtn";
+            this.TestBtn.Size = new System.Drawing.Size(71, 24);
+            this.TestBtn.TabIndex = 0;
+            this.TestBtn.Text = "Test";
+            this.TestBtn.UseVisualStyleBackColor = true;
+            this.TestBtn.Click += new System.EventHandler(this.TestBtn_Click);
+            // 
+            // textBoxID
+            // 
+            this.textBoxID.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBoxID.Location = new System.Drawing.Point(650, 368);
+            this.textBoxID.Name = "textBoxID";
+            this.textBoxID.Size = new System.Drawing.Size(100, 22);
+            this.textBoxID.TabIndex = 2;
             // 
             // materialScrollBar1
             // 
@@ -86,6 +108,7 @@
             // 
             // contextMenuStrip1
             // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
@@ -497,8 +520,11 @@
             // 
             // tabPage4
             // 
+            this.tabPage4.Controls.Add(this.textBoxID);
+            this.tabPage4.Controls.Add(this.TestBtn);
             this.tabPage4.ImageKey = "icons8-delivery-32.png";
             this.tabPage4.Location = new System.Drawing.Point(4, 39);
+            this.tabPage4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Size = new System.Drawing.Size(1060, 460);
             this.tabPage4.TabIndex = 3;
@@ -515,9 +541,27 @@
             this.Planning.Text = "Planning";
             this.Planning.UseVisualStyleBackColor = true;
             // 
+            // TestBtn
+            // 
+            this.TestBtn.Location = new System.Drawing.Point(492, 139);
+            this.TestBtn.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.TestBtn.Name = "TestBtn";
+            this.TestBtn.Size = new System.Drawing.Size(136, 28);
+            this.TestBtn.TabIndex = 0;
+            this.TestBtn.Text = "TestBtn";
+            this.TestBtn.UseVisualStyleBackColor = true;
+            // 
+            // textBoxID
+            // 
+            this.textBoxID.Location = new System.Drawing.Point(454, 67);
+            this.textBoxID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxID.Name = "textBoxID";
+            this.textBoxID.Size = new System.Drawing.Size(202, 22);
+            this.textBoxID.TabIndex = 1;
+            // 
             // CringeForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.logoResto;
@@ -543,6 +587,8 @@
             this.materialCard6.ResumeLayout(false);
             this.materialCard6.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            this.tabPage4.ResumeLayout(false);
+            this.tabPage4.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -581,6 +627,8 @@
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.Integration.ElementHost elementHost1;
         private LiveCharts.Wpf.PieChart pieChart1;
+        private System.Windows.Forms.Button TestBtn;
+        private System.Windows.Forms.TextBox textBoxID;
     }
 }
 
