@@ -9,66 +9,36 @@ C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFo
 C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CringeForm.resources
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CringeForm.resources
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.dll
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.xml
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\MySql.Data.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Buffers.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Memory.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\MySql.Data.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Buffers.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Memory.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CringeForm.resources
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-C:\Users\gayra\Documents\Projets\Logiciel resto\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CringeForm.resources
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\jojol\Downloads\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
