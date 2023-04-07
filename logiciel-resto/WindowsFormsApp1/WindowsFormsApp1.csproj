@@ -120,6 +120,7 @@
     <Compile Include="CringeForm.Designer.cs">
       <DependentUpon>CringeForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataGridViewStyler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CringeForm.resx">

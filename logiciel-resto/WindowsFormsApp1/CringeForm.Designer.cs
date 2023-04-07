@@ -31,7 +31,6 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CringeForm));
             this.TestBtn = new System.Windows.Forms.Button();
-            this.textBoxID = new System.Windows.Forms.TextBox();
             this.materialScrollBar1 = new MaterialSkin.Controls.MaterialScrollBar();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.materialButton1 = new MaterialSkin.Controls.MaterialButton();
@@ -64,6 +63,16 @@
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.Planning = new System.Windows.Forms.TabPage();
+            this.TextBoxNPlat = new System.Windows.Forms.TextBox();
+            this.TextBoxDPPlat = new System.Windows.Forms.TextBox();
+            this.TextBoxPPlat = new System.Windows.Forms.TextBox();
+            this.ComboBoxCategorie = new System.Windows.Forms.ComboBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.DeleteBtn = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.materialTabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage3.SuspendLayout();
@@ -74,26 +83,20 @@
             this.materialCard6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.tabPage4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // TestBtn
             // 
             this.TestBtn.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.TestBtn.Location = new System.Drawing.Point(661, 422);
+            this.TestBtn.Location = new System.Drawing.Point(0, 964);
+            this.TestBtn.Margin = new System.Windows.Forms.Padding(5);
             this.TestBtn.Name = "TestBtn";
-            this.TestBtn.Size = new System.Drawing.Size(71, 24);
+            this.TestBtn.Size = new System.Drawing.Size(1168, 28);
             this.TestBtn.TabIndex = 0;
-            this.TestBtn.Text = "Test";
+            this.TestBtn.Text = "TestBtn";
             this.TestBtn.UseVisualStyleBackColor = true;
             this.TestBtn.Click += new System.EventHandler(this.TestBtn_Click);
-            // 
-            // textBoxID
-            // 
-            this.textBoxID.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBoxID.Location = new System.Drawing.Point(650, 368);
-            this.textBoxID.Name = "textBoxID";
-            this.textBoxID.Size = new System.Drawing.Size(100, 22);
-            this.textBoxID.TabIndex = 2;
             // 
             // materialScrollBar1
             // 
@@ -147,7 +150,7 @@
             this.materialTabControl1.Multiline = true;
             this.materialTabControl1.Name = "materialTabControl1";
             this.materialTabControl1.SelectedIndex = 0;
-            this.materialTabControl1.Size = new System.Drawing.Size(1068, 503);
+            this.materialTabControl1.Size = new System.Drawing.Size(1176, 1035);
             this.materialTabControl1.TabIndex = 7;
             // 
             // tabPage1
@@ -520,16 +523,26 @@
             // 
             // tabPage4
             // 
-            this.tabPage4.Controls.Add(this.textBoxID);
+            this.tabPage4.Controls.Add(this.label4);
+            this.tabPage4.Controls.Add(this.label3);
+            this.tabPage4.Controls.Add(this.label2);
+            this.tabPage4.Controls.Add(this.label1);
+            this.tabPage4.Controls.Add(this.DeleteBtn);
+            this.tabPage4.Controls.Add(this.dataGridView1);
+            this.tabPage4.Controls.Add(this.ComboBoxCategorie);
+            this.tabPage4.Controls.Add(this.TextBoxPPlat);
+            this.tabPage4.Controls.Add(this.TextBoxDPPlat);
+            this.tabPage4.Controls.Add(this.TextBoxNPlat);
             this.tabPage4.Controls.Add(this.TestBtn);
             this.tabPage4.ImageKey = "icons8-delivery-32.png";
             this.tabPage4.Location = new System.Drawing.Point(4, 39);
-            this.tabPage4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage4.Margin = new System.Windows.Forms.Padding(4);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(1060, 460);
+            this.tabPage4.Size = new System.Drawing.Size(1168, 992);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Fournisseur";
             this.tabPage4.UseVisualStyleBackColor = true;
+            this.tabPage4.Click += new System.EventHandler(this.tabPage4_Click);
             // 
             // Planning
             // 
@@ -541,23 +554,89 @@
             this.Planning.Text = "Planning";
             this.Planning.UseVisualStyleBackColor = true;
             // 
-            // TestBtn
+            // TextBoxNPlat
             // 
-            this.TestBtn.Location = new System.Drawing.Point(492, 139);
-            this.TestBtn.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.TestBtn.Name = "TestBtn";
-            this.TestBtn.Size = new System.Drawing.Size(136, 28);
-            this.TestBtn.TabIndex = 0;
-            this.TestBtn.Text = "TestBtn";
-            this.TestBtn.UseVisualStyleBackColor = true;
+            this.TextBoxNPlat.Location = new System.Drawing.Point(379, 135);
+            this.TextBoxNPlat.Name = "TextBoxNPlat";
+            this.TextBoxNPlat.Size = new System.Drawing.Size(100, 22);
+            this.TextBoxNPlat.TabIndex = 1;
             // 
-            // textBoxID
+            // TextBoxDPPlat
             // 
-            this.textBoxID.Location = new System.Drawing.Point(454, 67);
-            this.textBoxID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBoxID.Name = "textBoxID";
-            this.textBoxID.Size = new System.Drawing.Size(202, 22);
-            this.textBoxID.TabIndex = 1;
+            this.TextBoxDPPlat.Location = new System.Drawing.Point(564, 135);
+            this.TextBoxDPPlat.Name = "TextBoxDPPlat";
+            this.TextBoxDPPlat.Size = new System.Drawing.Size(100, 22);
+            this.TextBoxDPPlat.TabIndex = 2;
+            // 
+            // TextBoxPPlat
+            // 
+            this.TextBoxPPlat.Location = new System.Drawing.Point(753, 135);
+            this.TextBoxPPlat.Name = "TextBoxPPlat";
+            this.TextBoxPPlat.Size = new System.Drawing.Size(100, 22);
+            this.TextBoxPPlat.TabIndex = 3;
+            // 
+            // ComboBoxCategorie
+            // 
+            this.ComboBoxCategorie.FormattingEnabled = true;
+            this.ComboBoxCategorie.Location = new System.Drawing.Point(908, 135);
+            this.ComboBoxCategorie.Name = "ComboBoxCategorie";
+            this.ComboBoxCategorie.Size = new System.Drawing.Size(121, 24);
+            this.ComboBoxCategorie.TabIndex = 4;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(97, 227);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(756, 446);
+            this.dataGridView1.TabIndex = 5;
+            // 
+            // DeleteBtn
+            // 
+            this.DeleteBtn.Location = new System.Drawing.Point(926, 342);
+            this.DeleteBtn.Name = "DeleteBtn";
+            this.DeleteBtn.Size = new System.Drawing.Size(75, 23);
+            this.DeleteBtn.TabIndex = 6;
+            this.DeleteBtn.Text = "button1";
+            this.DeleteBtn.UseVisualStyleBackColor = true;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(376, 97);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 16);
+            this.label1.TabIndex = 7;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(411, 96);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(33, 16);
+            this.label2.TabIndex = 8;
+            this.label2.Text = "nom";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(592, 95);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(73, 16);
+            this.label3.TabIndex = 9;
+            this.label3.Text = "description";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(797, 95);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(28, 16);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "prix";
             // 
             // CringeForm
             // 
@@ -565,7 +644,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.logoResto;
-            this.ClientSize = new System.Drawing.Size(1074, 570);
+            this.ClientSize = new System.Drawing.Size(1182, 1102);
             this.Controls.Add(this.materialTabControl1);
             this.Controls.Add(this.materialButton1);
             this.Controls.Add(this.materialScrollBar1);
@@ -589,6 +668,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.tabPage4.ResumeLayout(false);
             this.tabPage4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -628,7 +708,16 @@
         private System.Windows.Forms.Integration.ElementHost elementHost1;
         private LiveCharts.Wpf.PieChart pieChart1;
         private System.Windows.Forms.Button TestBtn;
-        private System.Windows.Forms.TextBox textBoxID;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.ComboBox ComboBoxCategorie;
+        private System.Windows.Forms.TextBox TextBoxPPlat;
+        private System.Windows.Forms.TextBox TextBoxDPPlat;
+        private System.Windows.Forms.TextBox TextBoxNPlat;
+        private System.Windows.Forms.Button DeleteBtn;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
     }
 }
 
