@@ -268,5 +268,20 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void Salle2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Salle1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void materialButton2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

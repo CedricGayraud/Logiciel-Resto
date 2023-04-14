@@ -93,4 +93,3 @@ C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\b
 C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Memory.xml
 C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\jabir\Documents\GitHub\Logiciel-Resto\logiciel-resto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
